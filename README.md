@@ -1,6 +1,8 @@
 # mqcursortrail
 CursorTrail for EverQuest+MacroQuest
 
+![](./image.png)
+
 # Installation
 Clone repository into your MQ Lua folder.
 
